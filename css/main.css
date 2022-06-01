@@ -1,6 +1,6 @@
 body, html {
   text-align: center;
-  font-family: Gotham, Helvetica, Arial, sans-serif;
+font-family: 'Roboto', sans-serif;
   font-size: 1em;
 }
 
@@ -33,18 +33,7 @@ paragraph {
   float: left;
 
 }
-@media only screen and (max-device-width: 480px) {
-  h1 {
-color: : #7b7d70;
-}
 
-  h2 {
-color: #4eafb8;
-}
-
-  paragraph {
-color: #ff8641;
-}
 /* ----------- For screens 768px and larger ----------- */
 @media only screen and (min-device-width: 768px) {
   h1 {
